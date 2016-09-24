@@ -1,0 +1,10 @@
+.form-inline .form-group {
+    display: inline-block;
+    margin-bottom: 0;
+    padding: 10px;
+    vertical-align: middle;
+}
+.form-group {
+    margin-bottom: 15px;
+    padding: 10px;
+}
